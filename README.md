@@ -3,7 +3,7 @@
 <h1 align="center">Привет всем! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Сайт для для публикации
+## Сайт для публикации
 
 Необходимо разработать социальную сеть для публикации личных дневников.
 
